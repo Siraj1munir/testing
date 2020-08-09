@@ -1,22 +1,10 @@
 [
 {
 "ID": "001",
-"Name": "Eurasian Collared-Dove",
-"Type": "Dove"
+"Name": "Eurasian Collared-Dove"
 },
 {
 "ID": "002",
-"Name": "Bald Eagle",
-"Type": "Hawk"
-},
-{
-"ID": "003",
-"Name": "Cooper's Hawk",
-"Type": "Hawk"
-},
-{
-"ID": "004",
-"Name": "Bell's Sparrow",
-"Type": "Sparrow"
+"Name": "Bald Eagle"
 },
 ]
