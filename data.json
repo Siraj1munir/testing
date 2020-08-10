@@ -1,10 +1,1 @@
-[
-{
-"ID": "001",
-"Name": "Eurasian Collared-Dove"
-},
-{
-"ID": "002",
-"Name": "Bald Eagle"
-},
-]
+{ "Id": 1, "Name": "Hassan Mehdi", "DepartmentId": 1, "Cgpa": 3.76, "IsActive": true }, { "Id": 2, "Name": "Ali Ahmed", "DepartmentId": 1, "Cgpa": 3.43, "IsActive": false }, { "Id": 3, "Name": "Muhammad Raza", "DepartmentId": 2, "Cgpa": 2.89, "IsActive": true }, { "Id": 4, "Name": "Omer Khan", "DepartmentId": 2, "Cgpa": 3.1, "IsActive": true } ] }
